@@ -1,10 +1,6 @@
 <h1 align="center">✨ Merhaba, ben Mustafa Yıldız! 👋</h1>
 <h3 align="center">🚀 Yazılım tutkunu, teknoloji sever & yaratıcı geliştirici!</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F78C6C&center=true&vCenter=true&width=435&lines=Frontend+%F0%9F%92%BB+Backend+%F0%9F%92%BC;React+%2B+Lua+severim!;Kodu+%F0%9F%94%A5+ile+yazarım!" alt="Typing SVG" />
-</p>
-
 ---
 
 <div align="center">
